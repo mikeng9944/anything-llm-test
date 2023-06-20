@@ -1,4 +1,4 @@
-# .env.production
+.env.production
 # .env.development
 storage/documents/*
 storage/vector-cache/*.json
